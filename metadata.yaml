@@ -1,0 +1,41 @@
+_repo: A-fond-de-cale_26894
+_version: 0.1.0
+alternative_title: Boy tar. French
+contributor:
+  translator:
+    agent_name: Loreau, H. (Henriette)
+    alias: Loreau, Henriette
+    birthdate: 1815
+    gutenberg_agent_id: '32311'
+    url: http://www.gutenberg.org/2009/agents/32311
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26894'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Sea stories'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcc 'PZ'
+title: A fond de cale
+url: http://www.gutenberg.org/ebooks/26894
